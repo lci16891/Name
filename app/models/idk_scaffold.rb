@@ -1,0 +1,2 @@
+class IdkScaffold < ApplicationRecord
+end
